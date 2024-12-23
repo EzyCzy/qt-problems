@@ -1,1 +1,1 @@
-Just some problems which I have solved on my own in my preparation for a Quant Trading OA
+Just some problems which I have correctly solved with no help in my preparation for Quant Trading/Finance OAs
